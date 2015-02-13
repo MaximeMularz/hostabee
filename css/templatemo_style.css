@@ -461,6 +461,7 @@ a.menu-toggle-btn {
 	font-size: 16px; 
 	width: 200px; 
 	margin-bottom:10%;
+	margin-top: 10%;
 	}
 
 .templatemo_loadmore button{ 
@@ -566,7 +567,7 @@ and (max-width : 419px)	{
 	.templatemo-hex-top2	{ margin-top: 100px; margin-left: 25%; }
 	.templatemo-hex-top3	{ margin-top: 100px; }
 	.templatemo_gallerytop	{ margin-top: 32%; }
-	.templatemo_loadmore	{ margin-top: 53%; }
+	/*.templatemo_loadmore	{ margin-top: 53%; }*/
 	.templatemo_servicetxt	{ margin-top: 230px; }
 	.templatemo_servicecol2	{ margin-top: 10%; float: left; }
 	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
@@ -593,7 +594,7 @@ and (max-width : 559px)	{
 	.templatemo-hex-top2	{ margin-top: 130px; margin-left: 25%; }
 	.templatemo-hex-top3		{ margin-top: 130px; }
 	.templatemo_gallerytop	{ margin-top: 32%; }
-	.templatemo_loadmore	{ margin-top: 50%; }
+	/*.templatemo_loadmore	{ margin-top: 50%; }*/
 	.templatemo_servicetxt	{ margin-top: 230px; }
 	.templatemo_servicecol2	{ margin-top: 7%; float: left; }
 	.blok	{ left: 22%; }
@@ -614,7 +615,7 @@ and (max-width : 559px)	{
 	.templatemo-hex-top2	{ margin-top: 180px; margin-left: 25%; }
 	.templatemo-hex-top3		{ margin-top: 180px; }
 	.templatemo_gallerytop	{ margin-top: 33%; }
-	.templatemo_loadmore	{ margin-top: 48%; }
+	/*.templatemo_loadmore	{ margin-top: 48%; }*/
 	.templatemo_servicetxt	{ margin-top: 230px; }
 	.templatemo_servicecol2	{ margin-top: 7%; float: left; }
 	.blok	{ left: 33%; }
